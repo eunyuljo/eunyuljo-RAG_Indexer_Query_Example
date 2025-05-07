@@ -1,4 +1,4 @@
-# 개선방향 : 인덱싱부터 처리 필요 
+# 개선방향 : 인덱싱부터 제대로 처리 필요 
 # RAG , GRAPH 처리 방식 이해 필요 
 
 # AWS Resource Indexer & Query System
