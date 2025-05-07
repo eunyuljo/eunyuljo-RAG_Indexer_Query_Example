@@ -1,0 +1,82 @@
+# AWS credentials
+.aws/
+credentials
+.boto
+*aws-keys*
+*aws_keys*
+
+# AWS resources data
+aws_resources/
+aws_resources_test/
+
+# Indexing data
+**/index/
+**/logs/
+**/data/
+
+# llama-index generated files
+llama_test_index/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# virtualenv
+venv/
+ENV/
+.env
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Output of the AWS CLI
+cli-output.json
+
+# Any file containing sensitive information
+*secret*
+*credentials*
+*credential*
+*config*
+*private*
+*token*
+*key*
+*cert*
+*pem*
+.env
+.env.*
+.envrc
+
+# Exceptions - allow these files even if they match patterns above
+!requirements.txt
+!.gitignore
