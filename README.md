@@ -1,3 +1,6 @@
+# 개선방향 : 인덱싱부터 처리 필요 
+# RAG , GRAPH 처리 방식 이해 필요 
+
 # AWS Resource Indexer & Query System
 
 이 프로젝트는 **AWS 리소스 전체를 자동 수집**하고, **리소스 간의 관계까지 추적**하여, 
